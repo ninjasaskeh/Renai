@@ -1,3 +1,4 @@
+export const apiKey = 'apiKey';
 export const dummyMessages = [
   {
     role: 'user',
